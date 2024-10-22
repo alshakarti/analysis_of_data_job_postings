@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql_load/2_create_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql_load/3_modify_tables.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql_project/1_top_paying_jobs.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql_project/2_top_paying_jobs_skills.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql_project/3_top_demand_skills.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql_project/4_top_paying_skills.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/sql_project/5_best_skills.sql" dialect="PostgreSQL" />
+  </component>
+</project>
